@@ -1,11 +1,14 @@
-SME Presentation Seating Theory: In presentation rooms in which the seats are divided in two sections divided by a line running from the front of the room (where the presenter stands) to the back of the room. In such a room, where attendees sit can be explained in terms of which "side" of the room they sit on.
+SME Presentation Seating Theory: In presentation rooms in which the seats are divided in two sections divided by a line 
+running from the front of the room (where the presenter stands) to the back of the room. In such a room, where attendees 
+sit can be explained in terms of which "side" of the room they sit on.
 
 SME Presentation Theory was developed from observing seating habits at SME presentations over a period of 5 years.
 
 Hypotheses formulated January 28, 2019 in anticipation of testing during a presentation on February 1, 2019. 
 
 
-Hypothesis 1: All PhD students except 1 will sit on one side of the room. The other PhD student will sit on the other side of the room.
+Hypothesis 1: All PhD students except 1 will sit on one side of the room. The other PhD student will sit on the other 
+side of the room.
 
 Hypothesis 2: No PhD students will sit in the front row on either side of the room.
 
